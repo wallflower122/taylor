@@ -1,0 +1,157 @@
+#title{
+background-image: url("taylor1.jpg");
+color: #3f332c;
+height: 750px;
+
+}
+.row{
+  margin: 0px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+.title-image{
+  width: 50%;
+  position: relative;
+  top: 150px;
+  box-shadow: 10px 0px 20px #00171f;
+
+}
+.yo{
+  text-align: center;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.col-lg-4{
+  text-align: center;
+
+}
+.taylorswift{
+  background-image: url("https://data.whicdn.com/images/124329795/original.jpg");
+  background-size: cover;
+  height: 440px;
+  color: #073b4c;
+  box-shadow: 10px 0px 20px white;
+
+}
+.fearless{
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png");
+  background-size: cover;
+  height: 440px;
+  color: #363636;
+
+}
+.speaknow{
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/71pssbyAWEL._AC_SL1500_.jpg");
+  background-size: cover;
+  height: 440px;
+  color: #e2afff;
+
+}
+.red{
+  background-image: url("https://junkee.com/wp-content/uploads/2021/06/65858309224a36df4d77d18ff14791bb.jpeg");
+  background-size: cover;
+  height: 440px;
+  color: #c1121f;
+
+}
+.pop{
+  background-image: url("https://pyxis.nymag.com/v1/imgs/7c1/af5/6b2b9a41048fa5f809954d53b558852fc5-10-taylor-swift-concert.rsquare.w700.jpg");
+  background-size: cover;
+  height: 440px;
+  color: #3c096c;
+}
+.reputation{
+  background-image: url("https://media1.popsugar-assets.com/files/thumbor/f0DLHteCCYqHNAVDWhKVDEu5PIs/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/11/21/727/n/1922398/8c3d4690b2f2d296_GettyImages-1064050488/i/Taylor-Swift-Last-Reputation-Show-Japan-Pictures.jpg");
+  background-size: cover;
+  height: 440px;
+  color: white;
+}
+.lover{
+  background-image: url("https://pyxis.nymag.com/v1/imgs/5c3/86c/a07c6f001bc9e1a8fadfe91dbbdc0d466f-taylor-swift-lover-09.rsquare.w700.jpg");
+  background-size: cover;
+  height: 440px;
+  color: #f72585;
+}
+
+.folklore{
+  background-image: url("https://lastfm.freetls.fastly.net/i/u/770x0/82212cbf0666eb26cc8f8d62d4bd3967.jpg");
+  background-size: cover;
+  height: 440px;
+  color: black;
+}
+.evermore{
+  background-image: url("https://assets.teenvogue.com/photos/5fd4d29fe6ff71e902f97c1a/1:1/w_2446,h_2446,c_limit/taylor-evermore-resized.jpg");
+  background-size: cover;
+  height: 440px;
+  color: #f58549;
+}
+
+.album{
+ padding-top: 80%;
+}
+.icon{
+  color: #1eb245;
+  border: 1px dashed #4f772d;
+  border-radius: 22%;
+  padding: 4px;
+}
+#testimonials{
+
+  text-align: center;
+
+
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.one{
+  background-image: url("https://static.billboard.com/files/media/taylor-swift-2010-billboard-1500-768x433.jpg");
+  background-size: cover;
+  height: 700px;
+}
+.testimonial-statement{
+  padding-top: 20%;
+  color: white;
+}
+.two{
+  background-image: url("https://hips.hearstapps.com/ell.h-cdn.co/assets/15/19/3200x1600/landscape-1431028007-472314052.jpg");
+  background-size: cover;
+  height: 700px;
+}
+.three{
+  background-image: url("https://img1.goodfon.com/wallpaper/nbig/2/4a/teylor-svift-taylor-swift-7593.jpg");
+  background-size: cover;
+  height: 700px;
+}
+.yoyo{
+  text-align: center;
+  padding-bottom: 30px;
+  color: white;
+}
+.py-5{
+  background-image: url("https://pbs.twimg.com/media/DrgMLOLUcAAgaeH.jpg");
+}
+#cta{
+  text-align: center;
+  background-image: url("https://wallpapercave.com/wp/vfYt5Gj.jpg");
+  padding-top: 3%;
+  padding: 20px;
+}
+.foooter{
+  color:#ff0a54;
+  font-size: 1.5rem;
+  margin: 2%;
+}
+.foooter:hover{
+  color:#ff4c68;
+}
+.btn-group{
+  text-align: center;
+}
